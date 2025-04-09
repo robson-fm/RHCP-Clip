@@ -1,0 +1,11 @@
+Tecnologias Utilizadas 
+
+- React.JS
+- Node.JS
+- JavaScript
+- HTML
+- CSS
+- Express.JS
+- MongoDB
+- Vite
+- Git e GitHub

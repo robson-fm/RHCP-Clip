@@ -1,0 +1,26 @@
+Passo a Passo de comandos no cmd (Prompt de comando) do vscode
+
+identificar se está instalado o Node
+
+node -v
+
+comando para criar com vite
+
+npm create vite@latest .
+
+Instalar todas as independencias do  node npm 
+
+npm install
+
+Rodar o código 
+
+npm run dev 
+
+ctrl + licar no link localhost que aparece no terminal.
+
+Comandos para criar a estrutura da função
+
+depois de criar  um arquivo exemplo arquivo Header.jsx 
+
+digitar - rafce depois Enter
+
