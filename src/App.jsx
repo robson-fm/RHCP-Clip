@@ -19,19 +19,7 @@ const App = () => {
       <Route path='/clipes' element={<Clipes/>}/>
       <Route path='/clipe/:id' element={<Clipe/>}/>
     </Routes>
-    {/* <iframe width="853" 
-height="480" 
-src="https://www.youtube.com/embed/C4bbUPYMhP8" 
-title="Red Hot Chili Peppers - Behind The Sun" 
-frameborder="0" 
-allow="accelerometer; 
-autoplay; clipboard-write; 
-encrypted-media; gyroscope; 
-picture-in-picture; web-share" 
-referrerpolicy="strict-origin-when-cross-origin" 
-allowfullscreen></iframe> */}
-
-
+  
   </BrowserRouter>
   );
 };

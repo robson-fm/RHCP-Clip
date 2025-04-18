@@ -15,7 +15,7 @@ const ItemList = ({title, items, itemsArray, path, idPath}) => {
             <h2>{title}</h2>
             {isHome ? (
             <Link to={path} className='item-list__link' >
-            Mostrar todos
+            Mostrar todos!
             </Link>):(
               <></>
             )}
