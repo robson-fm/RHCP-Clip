@@ -1,5 +1,5 @@
 import React from 'react'
-import ItemList from './itemlist';
+import ItemList from './Itemlist';
 import {artistArray} from "../assets/database/artists";
 import {songsArray} from "../assets/database/songs"
 
