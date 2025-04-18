@@ -1,5 +1,5 @@
 import React from 'react'
-import { ListSongsArray } from '../assets/database/listSongs'
+import { ListSongsArray } from '../assets/database/ListSongs'
 
 const MusicList = ({ artist }) => {
   // Filtrar as músicas pelo artista/álbum correspondente
