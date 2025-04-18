@@ -3,28 +3,28 @@ export const artistArray = [
     id: 1,
     image: "https://projeto-rhcp.vercel.app/albuns/20222.jpg",
     name: "Return of the Dream Canteen",
-    banner: "https://projeto-rhcp.vercel.app/albuns/20222.jpg",
+    banner: "https://m.media-amazon.com/images/I/91UcuA+7wTL.jpg",
     ano: "2022"
   },
   {
     id: 2,
     image: "https://projeto-rhcp.vercel.app/albuns/2022.jpg",
     name: "Unlimited Love",
-    banner: "https://projeto-rhcp.vercel.app/albuns/2022.jpg",
+    banner:"https://m.media-amazon.com/images/I/91mjhjhxhVL._AC_SX679_.jpg",
     ano: "2022"
   },
   {
     id: 3,
     image: "https://projeto-rhcp.vercel.app/albuns/2016.jpg",
-    name: "The GetAway",
+    name: "The Getaway",
     banner: "https://projeto-rhcp.vercel.app/albuns/2016.jpg",
     ano: "2016"
   },
   {
     id: 4,
-    image: "https://projeto-rhcp.vercel.app/albuns/2011.jpg",
+    image: "https://upload.wikimedia.org/wikipedia/pt/d/d7/Red_Hot_Chili_Peppers_-_I%27m_with_You.jpg",
     name: "I'm With You",
-    banner: "https://projeto-rhcp.vercel.app/albuns/2011.jpg",
+    banner: "https://upload.wikimedia.org/wikipedia/pt/d/d7/Red_Hot_Chili_Peppers_-_I%27m_with_You.jpg",
     ano: "2011"
   },
   {
@@ -103,6 +103,38 @@ export const artistArray = [
     name: "The Red Hot Chili Peppers",
     banner: "https://projeto-rhcp.vercel.app/albuns/1984.jpg",
      ano: "1984"
+  },
+
+  {
+    id: 16,
+    image: "https://projeto-rhcp.vercel.app/albuns/Slane_castle.jpg",
+    name: "DVD: Red Hot Chili Peppers - Live at Slane Castle",
+    banner: "https://projeto-rhcp.vercel.app/albuns/Slane_castle.jpg",
+     ano: "2004"
+  },
+
+  {
+    id: 17,
+    image: "https://projeto-rhcp.vercel.app/albuns/Beavis_And_Butthead_Do_America.jpg",
+    name: "Filme: Beavis And Butthead Do America. Trilha Sonora",
+    banner: "https://projeto-rhcp.vercel.app/albuns/Beavis_And_Butthead_Do_America.jpg",
+     ano: "1996"
+  },
+
+  {
+    id: 18,
+    image: "https://projeto-rhcp.vercel.app/albuns/Coneheads_Poster.jpg",
+    name: "Filme: Coneheads Poster. Trilha Sonora",
+    banner: "https://projeto-rhcp.vercel.app/albuns/Coneheads_Poster.jpg",
+     ano: "1993"
+  },
+
+  {
+    id: 19,
+    image: "https://m.media-amazon.com/images/M/MV5BYzZiZjAxODItYzJhNi00ZjgyLThlMWEtMWI4NjM3YjNlN2M4XkEyXkFqcGc@._V1_.jpg",
+    name: "Filme: Pretty Woman. Trilha Sonora",
+    banner: "https://m.media-amazon.com/images/M/MV5BYzZiZjAxODItYzJhNi00ZjgyLThlMWEtMWI4NjM3YjNlN2M4XkEyXkFqcGc@._V1_.jpg",
+     ano: "1990"
   },
   // {
   //   id: 16,

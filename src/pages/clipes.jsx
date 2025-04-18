@@ -1,9 +1,9 @@
 import React from 'react'
+import Main from '../components/Main';
 
 const clipes = () => {
-  return (
-    <div>clipes</div>
-  )
+    return <Main type = 'clipes'/>;
+  
 }
 
 export default clipes
