@@ -571,7 +571,7 @@ duration: "4:11",
 artist: "The Red Hot Chili Peppers",
 audio: "https://projeto-rhcp.vercel.app/clip/True%20men%20dont%20kill%20coyotes.mp4",
 banner: "https://projeto-rhcp.vercel.app/albuns/1984.jpg",
-ano: "1988",
+ano: "1984",
   id: 55,
 },
 
